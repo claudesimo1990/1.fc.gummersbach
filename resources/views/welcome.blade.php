@@ -27,7 +27,7 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
-      <h1 class="mb-1" style="color: #3498db">1.fc Gummersbach</h1>
+      <h1 class="mb-1 text-center" style="color: #3498db">1.FC Gummersbach</h1>
       <h3 class="mb-5">
         <em>Unsere neue Website ist unterwegs</em>
       </h3>
